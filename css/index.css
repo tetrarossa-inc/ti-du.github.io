@@ -1,0 +1,49 @@
+body {
+	background-color: black;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+}
+
+h3 {
+	text-align: center;
+	color: white;
+}
+
+h4 {
+	text-align: center;
+	color: white;
+}
+
+h5 {
+	text-align: center;
+	color: white;
+}
+
+h6 {
+	text-align: center;
+	color: white;
+}
+
+p {
+	text-align: center;
+	color: white;
+}
+
+footer {
+	text-align: center;
+	color: black;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: gray;
+	padding: 8px 0;
+}
